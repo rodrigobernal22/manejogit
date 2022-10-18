@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class E026_ecuacioneslineales{
+	public static void main(String[] arg){
+		
+		Scanner sc= new Scanner(System.in);
+		
+		float a;
+		float b;
+		float c;
+		float d;
+		float e;
+		float f;
+		float x;
+		float y;
+		
+		System.out.println("Introduce a");
+		a= sc.nextInt();
+		System.out.println("Introduce b");
+		b= sc.nextInt();
+		System.out.println("Introduce c");
+		c= sc.nextInt();
